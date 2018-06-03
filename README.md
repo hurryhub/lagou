@@ -10,4 +10,5 @@
 - 数据库的链接
 ## 3. 数据分析
 ### - matplotlib + seaborn
-### - surperset平台的搭建
+### - pyecharts
+
